@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zcc0de
 - 👀 I’m interested in GNU/Linux
-- 🌱 I’m currently learning GeoFlink
+- 🌱 I’m currently working at START-Lab
 - 📫 zechao.chen@kangry.net
 
 <!---
