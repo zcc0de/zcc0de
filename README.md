@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zcc0de
-- 👀 I’m interested in GNU/Linux
+- 👀 This is my personal account [ThatcherChen](https://github.com/ThatcherChen)
 - 🌱 I’m currently working at START-Lab
 - 📫 zechao.chen@kangry.net
 
